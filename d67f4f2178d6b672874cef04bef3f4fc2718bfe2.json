@@ -3,7 +3,7 @@
   "id": "DeepNovo_20260807_140537",
   "software_name": "DeepNovo",
   "software_version": "",
-  "checkpoint": "",
+  "checkpoint": "translate.ckpt-134100",
   "n_beams": "",
   "n_peaks": "",
   "precursor_mass_tolerance": "",
